@@ -50,7 +50,7 @@
     "strip-ansi": "^7.0.1",
     "uuid": "^9.0.0",
     "wait-notify": "^1.0.3",
-    "winston": "^3.8.2"
+    "winston": "^3.13.0"
   },
   "devDependencies": {
     "@types/argparse": "^2.0.10",
