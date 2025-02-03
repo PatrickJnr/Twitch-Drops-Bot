@@ -1,4 +1,4 @@
-FROM node:current-bullseye
+FROM node:22.13.1-bullseye
 
 # Install Chromium
 RUN apt-get update && apt-get install chromium -y
